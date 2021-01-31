@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 243032959716a7845b782f0960d8bbbe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - edibleGameObjcet: {instanceID: 0}
+  - powerPelletGameObject: {instanceID: 0}
+  - wallElementGameObject: {instanceID: 0}
+  - wallElementGameObject2: {fileID: 1647069887708138, guid: 0429ea15c3cefe54d91d1b8309b14f7d,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
